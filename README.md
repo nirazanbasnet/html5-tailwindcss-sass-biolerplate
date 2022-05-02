@@ -1,13 +1,13 @@
 # HTML5 - TailwindCss and SASS Boilerplate
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/nirazanbasnet/html5-tailwindcss-sass-biolerplate/main/LICENSE.txt)
-[![github-stars-image](https://img.shields.io/github/stars/h5bp/html5-boilerplate.svg?label=github%20stars)](https://github.com/nirazanbasnet/html5-tailwindcss-sass-biolerplate)
+[![github-stars-image](https://img.shields.io/github/stars/nirazanbasnet/html5-tailwindcss-sass-biolerplate.svg?label=github%20stars)](https://github.com/nirazanbasnet/html5-tailwindcss-sass-biolerplate)
 
 This boilerplate helps to get start the frontend projects with in built webpack compiler for TailwindCss and SASS
 
 ## Quick start
 
-* Choose the template Option then run `yarn`
+Choose the template Option then run `yarn`
 
   ```bash
   git clone git@github.com:nirazanbasnet/html5-tailwindcss-sass-biolerplate.git new-site
